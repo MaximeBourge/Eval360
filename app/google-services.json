@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "334509121000",
+    "firebase_url": "https://eval360-ff5bd-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "eval360-ff5bd",
+    "storage_bucket": "eval360-ff5bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334509121000:android:6b6638606a23d2358cd85d",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334509121000-3fgtqi6ioo8o6g077uhu8n0r228s6m9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkI_26IBxCihqw-XBxPY22Ml_OBDoQm4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334509121000-3fgtqi6ioo8o6g077uhu8n0r228s6m9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
